@@ -1,6 +1,5 @@
-# Mary-s-Business-Problem
-INDRODUCTION
-C:\Users\maryjoy\Downloads\IMG_0244.jpeg
+#INDRODUCTION
+Mary-s-Business-Problem
 Coming up with business questions and generate metrics that could be tracked to identify trends and patterns in the sale of pharmaceutical drugs sold in the pharmacy over time.
 Business questions from Mary pharmaceutical business
 1.	Why sale was stagnant for Mary’s store

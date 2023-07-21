@@ -13,3 +13,12 @@ Coming up with business questions and generate metrics that could be tracked to 
 7.	What pharmaceutical drugs have the highest and lowest sale volume in Mary’s pharmacy
 8.	How does sale correlate with external factor such as weather conditions? 
 
+ ANSWERS TO THESE BUSINESS QUESTIONS
+ To answer these business questions we will have to genetrate KPIs (metrix) to track performance  based on the struture we have set.
+ 1. Calulate the total sales revenue based on diffirent dimension; Time of day.
+ 2. Calulate the total quantity and total sales
+ 3. Calculate percentage by sale
+ 4. Calculate top selling drugs  
+ 5. Calucate total sale  and quanty for each drug category; M01AB, M01AE, M02BA,M02BE,N05B, N05C, R03, R06.
+ 6. Calculate sales growth rate.
+ 7. 

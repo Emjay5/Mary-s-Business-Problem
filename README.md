@@ -78,7 +78,7 @@ The dataset was cleaned by removing duplicates, correcting any inconsistencies, 
 Dataset after cleaning
 image
 
-Data modelling and relationships.
+## Data modelling and relationships.
 Dimensions with which to break down the analysis were identified. Hence, new tables for identified dimensions were created. These included:
 
 Drugs Table
@@ -89,7 +89,7 @@ The data model was designed using the Star Schema where the different dimensions
 
 image
 
-Create visualizations and charts:
+## Create visualizations and charts:
 Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
 
 image
@@ -97,10 +97,9 @@ image
 # Dashboard Testing and Refinement
 To guide each student throughout the project, they get the opportunity to schedule a one-on-one session with an instructor. This is to get feedback on their work done and to see if they were meeting up with the project's requirements. The students gathered feedback from these sessions and made necessary adjustments to their dashboard layout, visualizations, and insights based on the feedback received.
 
-Incorporate relevant insights and trends:
-Each student highlighted the most important insights and trends on their dashboard.
+## Incorporate relevant insights and trends:
+I highlighted the most important insights and trends on my dashboard.
 
-Watch Student's presentation here
 
 # Insights
 General overall trend for sales was not steady. The pharmacy started off well. 2014, 2016, and 2018 were good years for the business. However, 2015, 2017, and 2019 were also down times for the business.

@@ -1,5 +1,6 @@
 ![IMG_0244](https://github.com/Emjay5/Mary-s-Business-Problem/assets/136242686/d1e73225-52be-4725-bc02-5c6bab032112)
-#INDRODUCTION
+
+# INDRODUCTION
 
 WHY MARY'S PHARMACEUTICAL DRUG SALE IS STAGNANT  FOR OVER 6 YEARS
 Coming up with business questions and generate metrics that could be tracked to identify trends and patterns in the sale of pharmaceutical drugs sold in the pharmacy over time.
@@ -46,34 +47,33 @@ The dataset is built from the initial dataset consisting of transactional data c
 
 Data Source: [Mary's dataset](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data?select=salesdaily.csv)
 
-Project Objective
+## Project Objective
 The objective of the project was to help Mary's Pharmacy improve its sales performance and overall business operations by analyzing transactional sales data and then creating dashboard(s) that provide valuable insights to the sales manager and CEO. The dashboard should uncover trends, patterns, and opportunities in the sale of pharmaceutical drugs, enabling informed decision-making and driving business growth.
 
 Throughout the project, we were able to achieve the following:
 
-Understand Business Objectives and User Requirements
+### Understand Business Objectives and User Requirements
 We tried to understand the specific requirements and objectives from the business problem. We identified key areas we want to focus on and the questions the business needs answers to.
 
-Define Business Questions and Metrics
+## Define Business Questions and Metrics
 Based on the discussions in Step 1, we defined specific business questions that the dashboard should answer. Example questions include:
 
-What is the overall sales trend for the pharmacy?
-Which drugs have the highest sales revenue?
-Are there any seasonal sales patterns for specific drugs or ATC categories?
-What time of the day has the highest sales?
-Define the metrics and Key Performance Indicators (KPIs) that will help answer the business questions.
-Example metrics include:
+- What is the overall sales trend for the pharmacy?
+- Which drugs have the highest sales revenue?
+- Are there any seasonal sales patterns for specific drugs or ATC categories?
+- What time of the day has the highest sales?
+  
+## Define the metrics and Key Performance Indicators (KPIs) that will help answer the business questions.
+  Example metrics include:
+- Total sales revenue
+- Quantity sold by drug or ATC category
+- Sales growth rate
+- Top-selling drugs by revenue or quantity
+- Quantity growth rate.
 
-Total sales revenue
-Quantity sold by drug or ATC category
-Sales growth rate
-Top-selling drugs by revenue or quantity
-Quantity growth rate.
-Preprocess the dataset:
+## Preprocess the dataset:
 The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
 
-Dataset before cleaning
-image
 
 Dataset after cleaning
 image
@@ -94,7 +94,7 @@ Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to
 
 image
 
-Dashboard Testing and Refinement
+# Dashboard Testing and Refinement
 To guide each student throughout the project, they get the opportunity to schedule a one-on-one session with an instructor. This is to get feedback on their work done and to see if they were meeting up with the project's requirements. The students gathered feedback from these sessions and made necessary adjustments to their dashboard layout, visualizations, and insights based on the feedback received.
 
 Incorporate relevant insights and trends:
@@ -102,7 +102,7 @@ Each student highlighted the most important insights and trends on their dashboa
 
 Watch Student's presentation here
 
-Insights
+# Insights
 General overall trend for sales was not steady. The pharmacy started off well. 2014, 2016, and 2018 were good years for the business. However, 2015, 2017, and 2019 were also down times for the business.
 2018 had the highest sales
 While it was established that 2018 was the best year in terms of sales, that is not the true picture for specific drugs.
@@ -111,7 +111,8 @@ Sales declined in 2015 by 8% this was strongly attributed to the decline in the 
 Afternoon records the time with the most sales. However, across the drug category, the R0 drug series sell more in the evenings than in the afternoons.
 N05B maintains the top-selling drugs across all years followed by N02BE and then R03 drugs. R03 overtook N02BE in terms of sales in 2018.
 While N05B is the best seller in terms of sales, in terms of quantity, N02BE has the highest quantity sold selling 3 times the quantity sold for N05B.
-Recommendation
+
+# Recommendation
 The management should look into the market conditions and strategies adopted for moving sales in 2014,2016 and 2918 such as operational efficiency, supply chain, customer service, and so on as those strategies might have worked.
 Certain drugs showed good performance for particular seasons. Marketing efforts should be centered around them for that particular period.
 For drugs that show seasonal patterns as well, the management should ensure enough supply of those drugs around that time to match up with the demand.

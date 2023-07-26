@@ -88,7 +88,8 @@ Additional features were created to give more robustness to our analysis
 The data model was designed using the Star Schema where the different dimensions were connected to the Facts table in a one-to-many relationship.
 
 image
-<img width="878" alt="Screenshot 2023-07-23 163620" src="https://github.com/Emjay5/Mary-s-Business-Problem/assets/136242686/b3a1e62c-e6fd-4f13-bc3c-f4af8c998fe9">
+
+<img width="878" alt="Screenshot 2023-07-23 163620" src="https://github.com/Emjay5/Mary-s-Business-Problem/assets/136242686/352ce386-ca29-4269-a637-8476d176057b">
 
 
 ## Create visualizations and charts:

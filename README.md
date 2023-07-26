@@ -97,6 +97,10 @@ Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to
 
 image
 
+<img width="511" alt="Screenshot 2023-07-23 163723" src="https://github.com/Emjay5/Mary-s-Business-Problem/assets/136242686/2e67bbf7-3bed-4bfb-8c54-f48498ec470f">
+
+
+
 # Dashboard Testing and Refinement
 To guide each student throughout the project, they get the opportunity to schedule a one-on-one session with an instructor. This is to get feedback on their work done and to see if they were meeting up with the project's requirements. The students gathered feedback from these sessions and made necessary adjustments to their dashboard layout, visualizations, and insights based on the feedback received.
 

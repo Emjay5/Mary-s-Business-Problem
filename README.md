@@ -75,8 +75,10 @@ Based on the discussions in Step 1, we defined specific business questions that 
 The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data is in a suitable format for analysis and visualization.
 
 
-Dataset after cleaning
+### Dataset after cleaning
+
 image
+
 
 ## Data modelling and relationships.
 Dimensions with which to break down the analysis were identified. Hence, new tables for identified dimensions were created. These included:

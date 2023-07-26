@@ -78,6 +78,8 @@ The dataset was cleaned by removing duplicates, correcting any inconsistencies, 
 ### Dataset after cleaning
 
 image
+<img width="726" alt="Screenshot 2023-07-23 163015" src="https://github.com/Emjay5/Mary-s-Business-Problem/assets/136242686/6b4d4dc3-2b53-49e1-9f05-427d967523b3">
+
 
 
 ## Data modelling and relationships.

@@ -111,5 +111,5 @@ I highlighted the most important insights and trends on my dashboard.
 ## Deployment and Documentation
 Once the dashboard was finalized, it was deployed to Power BI service. The project process and deliverables are documented here on GitHub.
 
-Interact with the final dashboard here:
+Interact with the final dashboard here:[EMjay5's interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiODY0YjNmYjAtMmVjMy00YTAwLTkzNTQtNWZiYTRkNjYzOGExIiwidCI6IjM1MTMzYmUwLTZhNDEtNDVmMS04YjM0LTBjZDY4ZTk2NzJjMyJ9)
 
